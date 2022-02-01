@@ -67,7 +67,7 @@ jobs:
       - name: Download
         uses: carlosperate/download-file-action@v1
         with:
-          file-url: https://github.com/miyo-reader/.github/blob/main/workflow-templates/assets/sync-labels/${{ matrix.filename }}
+          file-url: https://raw.githubusercontent.com/miyo-reader/.github/main/workflow-templates/assets/sync-labels/${{ matrix.filename }}
 
       - name: Pass configuration files to next job via workflow artifact
         uses: actions/upload-artifact@v2
