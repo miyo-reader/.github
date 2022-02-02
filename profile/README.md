@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is the :octocat: home of the [Miyo Reader](https://www.miyo-reader.io) project.
+This is the :octocat: home of the [Miyo Reader](https://miyo-reader.io) project.
 
 Its purpose is to build an **open** software/open hardware **ebook reader**.
 
