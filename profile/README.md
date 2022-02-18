@@ -8,5 +8,5 @@ While software development effort is at least somewhat visible via the commit lo
 | **Year** | **Income** / Year | [**Expenses**](https://github.com/miyo-reader/.github/tree/main/invoices) / Year | **Profit (+) / Loss (-)** |
 |:-:|:-:|:-:|:-:|
 | **2021** | €   0.00 | € 182.68 | **- € 182.68** |
-| **2022** | €   0.00 | € 572.25 | **- € 572.25** |
-| | | **TOTAL** | **- € 754.93** |
+| **2022** | €   0.00 | € 753.97 | **- € 753.97** |
+| | | **TOTAL** | **- € 936.65** |
