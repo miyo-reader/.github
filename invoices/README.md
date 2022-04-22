@@ -14,4 +14,5 @@ This folder contains all the invoices for expenses being made in the course of t
 |:-:|:-|:-:|
 | [MIYO-20220212-001](2022/MIYO-20220212-001.pdf) | Logo Design Phase 1 | € 572.25 |
 | [MIYO-20220218-002](2022/MIYO-20220218-002.pdf) | Logo Design Phase 2 | € 181.72 |
-| | **SUM** | **€ 753.97**  |
+| [MIYO-20220304-003](2022/MIYO-20220304-003.pdf) | Logo Design Phase 2 | € 264.32 |
+| | **SUM** | **€ 1018.29**  |
