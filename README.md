@@ -8,3 +8,5 @@ A collection of reusable assets for the Miyo Reader project.
 <p align="center">
   <a href="https://miyo-reader.io/"><img src="https://github.com/miyo-reader/.github/raw/main/logo/miyo-colour-typo-1501x1501.png" width="40%"></a>
 </p>
+
+All artwork is copyright © [LXRobotics GmbH](https://www.lxrobotics.com/). All rights reserved.
