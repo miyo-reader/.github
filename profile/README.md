@@ -1,5 +1,6 @@
 <a href="https://miyo-reader.io/"><img align="right" src="https://raw.githubusercontent.com/miyo-reader/.github/main/logo/miyo-horizontal-1501x700.png" width="25%"></a>
-## Hi there 👋
+Hi there 👋
+===========
 This is the :octocat: home of the [Miyo Reader](https://miyo-reader.io) project.
 
 Its purpose is to build an **open** software/open hardware **ebook reader**.
