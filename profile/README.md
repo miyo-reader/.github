@@ -11,9 +11,9 @@ While software development effort is at least somewhat visible via the commit lo
 |:-:|:-:|:-:|:-:|
 | **2021** | €   0.00 | € 182.68 | **- € 182.68** |
 | **2022** | €   0.00 | € 1018.29 | **- € 1018.29** |
-| **2023** | €   0.00 | € 70.00 | **- € 1088.29** |
-| **2024** | €   0.00 | € 70.00 | **- € 1158.29** |
-| | | **TOTAL** | **- € 1200.97** |
+| **2023** | €   0.00 | € 70.00 | **- € 70.00** |
+| **2024** | €   0.00 | € 70.00 | **- € 70.00** |
+| | | **TOTAL** | **- € 1340.97** |
 
 <p align="center">
   <a href="https://miyo-reader.io/"><img src="https://github.com/miyo-reader/.github/raw/main/logo/miyo-colour-typo-1501x1501.png" width="40%"></a>
